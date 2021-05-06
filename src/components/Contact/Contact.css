@@ -1,0 +1,11 @@
+.submit-button-area{
+    color: white;
+    border: 2px solid #ff4a57;
+    margin-left:3px;
+}
+
+.submit-button-area:hover{
+    border: 2px solid red;
+    background-color:none;
+    color: #ff4a57;
+}

@@ -1,0 +1,27 @@
+.banner-text-area{
+    color: white;
+}
+.fa-color{
+    color: #ff4a57;
+    margin-left: 10px;
+}
+.fa-colorr{
+    color: #ff4a57;
+}
+.fa-customize{
+    color: white;
+}
+.button-area{
+    color: white;
+    border: 2px solid #ff4a57;
+    margin-left:3px;
+ }
+.button-area:hover{
+    border: 2px solid red;
+    background-color:none;
+    color: #ff4a57;
+}
+#developers-name{
+    color: #ff4a57;
+}
+
